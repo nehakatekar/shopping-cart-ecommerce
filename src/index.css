@@ -15,6 +15,7 @@ textarea {
   font-family: Montserrat, Helvetica, Arial, sans-serif;
   font-size: 1.6rem;
 }
+
 .grid-container {
   display: grid;
   grid-template-areas:
